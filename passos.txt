@@ -1,0 +1,4 @@
+git config --global user.name LipeDaltoe
+git config --global user.email felipedaltoe9@gmail.com
+
+dotnet new mvc -o EtecShop
